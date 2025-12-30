@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Prompt👋 I am currently venturing into the world of Machine Learning. This profile tracks my progress through various projects, documenting the "aha!" moments and the challenges I've faced along the way.
 
 <!--
 **promlptco/promlptco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
