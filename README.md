@@ -1,5 +1,5 @@
 ## Hi there! I'm Prompt👋 
-I am currently venturing into the world of Machine Learning. This profile tracks my progress through various projects and the challenges I've faced along the way.
+I focus on AI, pattern recognition, learning theory, and RL/DRL with current interests in artificial life and brain-to-code paradigms.
 
 <!--
 **promlptco/promlptco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
